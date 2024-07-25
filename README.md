@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arpita-ger
+- 👋 Hi, I’m @arupoonia
 - 👀 I’m interested in quadruped robot project
 - 🌱 I’m currently learning codesys and MATLAB
 - 💞️ I’m looking to collaborate on ROBOTICS PROJECT
